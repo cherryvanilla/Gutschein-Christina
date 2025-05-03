@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Gutschein für Christina</title>
+  <style>
+    body {
+      font-family: 'Georgia', serif;
+      margin: 0;
+      padding: 0;
+      background: #fdfdfd url('https://cdn.pixabay.com/photo/2017/07/24/19/25/lilies-2538157_1280.jpg') no-repeat center top;
+      background-size: cover;
+      color: #2c2c2c;
+    }
+    .overlay {
+      background-color: rgba(255, 255, 255, 0.85);
+      padding: 3rem;
+      max-width: 800px;
+      margin: 5rem auto;
+      border-radius: 16px;
+      box-shadow: 0 0 20px rgba(0,0,0,0.1);
+    }
+    h1 {
+      font-size: 2.5rem;
+      color: #8c7052;
+      text-align: center;
+    }
+    p {
+      font-size: 1.2rem;
+      line-height: 1.6;
+      margin-bottom: 1rem;
+    }
+    .signature {
+      margin-top: 2rem;
+      font-style: italic;
+      text-align: right;
+    }
+  </style>
+</head>
+<body>
+  <div class="overlay">
+    <h1>Für Christina – mit Liebe & Lilien</h1>
+    <p>Liebe Christina,</p>
+    <p>
+      An diesem besonderen Tag, der nur Dir gehört,<br>
+      möchte ich Dir von Herzen danken – für Dein Sein, für Deine Wärme,<br>
+      für das stille Leuchten, das Du in unsere Welt bringst.
+    </p>
+    <p>
+      <strong>Wie weiße Lilien, die in stiller Eleganz erblühen,<br>
+      so strahlst Du – rein, anmutig und voller sanfter Stärke.</strong><br>
+      Jede Blüte erinnert mich an Deine Güte, Deine stille Kraft,<br>
+      an all die liebevollen Gesten, mit denen Du Herzen berührst.
+    </p>
+    <p>
+      Zum Geburtstag schenke ich Dir einen <strong>Zuschuss für eine Schönheitsbehandlung</strong> –<br>
+      eine kleine Auszeit, nur für Dich.<br>
+      Damit Du Dich so verwöhnen kannst, wie Du es verdienst.
+    </p>
+    <p>
+      Möge Dein neues Lebensjahr blühen wie ein Garten voller Lilien –<br>
+      lichtvoll, liebevoll, lebendig.
+    </p>
+    <p class="signature">
+      In tiefer Dankbarkeit und von Herzen,<br>
+      [Dein Name]
+    </p>
+  </div>
+</body>
+</html>
